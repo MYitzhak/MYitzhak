@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Yitzhak Mizrahi
-- 👀 I’m interested in computer vision
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on project deep lerning
+
+- 💞️ I’m looking to collaborate on project
 - 📫 How to reach me yitzhak.aka@gmail.com
 
 <!---
